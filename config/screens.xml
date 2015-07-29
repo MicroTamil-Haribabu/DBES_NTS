@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <screens title='Prevention of Sexual Harassment'>
     <screen subTitle=''>screen_01_00</screen>
     <screen subTitle='Sexual Harassment is..'>screen_01_01</screen>
@@ -11,4 +11,6 @@
     <screen subTitle='POSH in NTS Bay'>screen_01_08</screen>
     <screen subTitle='POSH in NTS Bay'>screen_01_09</screen>
     <screen subTitle='POSH Committee Members'>screen_01_10</screen>
+    <screen subTitle='POSH Committee Members'>screen_01_10</screen>
+    <screen subTitle='Test yourself'>screen_01_12</screen>
 </screens>
