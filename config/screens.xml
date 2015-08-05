@@ -3,6 +3,8 @@
     <screen subTitle='Welcome'>screen_01_00</screen>
     <screen subTitle='Introduction'>screen_01_01</screen>
     <screen subTitle='Nuance Policies – POSH'>screen_02_01</screen>
-    <screen subTitle='Types of Sexual Harassment'>screen_03_01</screen>
-    <screen subTitle='Reporting a Sexual Harassment incident'>screen_04_01</screen>
+    <screen subTitle='Quiz 1/2'>screen_03_01</screen>
+    <screen subTitle='Quiz 2/2'>screen_03_02</screen>
+    <screen subTitle='Types of Sexual Harassment'>screen_04_01</screen>
+    <screen subTitle='Reporting a Sexual Harassment incident'>screen_05_01</screen>
 </screens>
