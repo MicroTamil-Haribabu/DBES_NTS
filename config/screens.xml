@@ -8,4 +8,15 @@
     <screen subTitle='Types of Sexual Harassment'>screen_04_01</screen>
     <screen subTitle='Assesment'>screen_04_02</screen>
     <screen subTitle='Reporting a Sexual Harassment incident'>screen_05_00</screen>
+    <screen subTitle='Assesment 1/10' quiz='true'>screen_05_01</screen>
+    <screen subTitle='Assesment 2/10' quiz='true'>screen_05_02</screen>
+    <screen subTitle='Assesment 3/10' quiz='true'>screen_05_03</screen>
+    <screen subTitle='Assesment 4/10' quiz='true'>screen_05_04</screen>
+    <screen subTitle='Assesment 5/10' quiz='true'>screen_05_05</screen>
+    <screen subTitle='Assesment 6/10' quiz='true'>screen_05_06</screen>
+    <screen subTitle='Assesment 7/10' quiz='true'>screen_05_07</screen>
+    <screen subTitle='Assesment 8/10' quiz='true'>screen_05_08</screen>
+    <screen subTitle='Assesment 9/10' quiz='true'>screen_05_09</screen>
+    <screen subTitle='Assesment 10/10' quiz='true'>screen_05_10</screen>
+    <screen subTitle='Conclusion' quiz='true'>screen_05_11</screen>
 </screens>
